@@ -1,4 +1,5 @@
 # Selection sort and Insertion sort
+## DATE:19.09.2023
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
@@ -35,7 +36,6 @@ def selection_sort(nums):
 list_of_nums = eval(input())
 selection_sort(list_of_nums)
 print(list_of_nums)
-
 ```
 ii)	#Insertion Sort
 ```
@@ -54,12 +54,9 @@ def insertion_sort(nums):
 list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
-
 ```
-
 ## Output:
 ![Screenshot (231)](https://github.com/gpavana/Sorting-Algorithm/assets/118787343/be46c5c0-43d5-420f-a429-41c006f89cfd)
 ![Screenshot (232)](https://github.com/gpavana/Sorting-Algorithm/assets/118787343/8d0ced69-0ee8-4762-8370-906bd0cd67a2)
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
